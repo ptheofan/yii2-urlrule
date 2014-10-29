@@ -1,0 +1,21 @@
+{
+    "name": "ptheofan/yii2-urlrule",
+    "description": "Enhanced UrlRules for Yii2 UrlManager component",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","UrlRules"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paris Theofanidis",
+            "email": "ptheofan@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ptheofan\\urlrule\\": ""
+        }
+    }
+}
