@@ -6,7 +6,7 @@
  * Time: 13:25
  */
 
-namespace app\urls;
+namespace ptheofan\urlrule;
 
 use Yii;
 use yii\base\Exception;
